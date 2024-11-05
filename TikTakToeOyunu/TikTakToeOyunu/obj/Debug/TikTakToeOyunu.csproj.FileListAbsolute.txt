@@ -1,0 +1,10 @@
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\bin\Debug\TikTakToeOyunu.exe.config
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\bin\Debug\TikTakToeOyunu.exe
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\bin\Debug\TikTakToeOyunu.pdb
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.Form1.resources
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.Properties.Resources.resources
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.csproj.GenerateResource.cache
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.exe
+C:\Users\Dilara\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.pdb
